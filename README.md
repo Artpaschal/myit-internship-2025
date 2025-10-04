@@ -8,15 +8,15 @@ Over the course of the internship, I contributed to three distinct research-driv
 
 1. **Understanding of Quantitative and Qualitative Research Methodologies**  
    A structured reflection on learning objectives, core activities, inputs, outcomes, and long-term impacts of mastering research methods.  
-   👉 [View Project](./Research-Methodologies/README.md)
+   👉 [View Project](/01-research-methods-activity/README.md)
 
 2. **Naija PeaceTech Lab Youth Study**  
    A dry-run research design exploring the role of digital technology in mediating youth conflict dynamics and co-designing peacebuilding solutions.  
-   👉 [View Project](./Naija-PeaceTech-Study/README.md)
+   👉 [View Project](./02-naija-peacetech-study/README.md)
 
 3. **Access to Digital Learning Tools among Nigerian Students**  
    A focused research activity examining barriers, opportunities, and equity gaps in access to digital education resources.  
-   👉 [View Project](./Digital-Learning-Access/README.md)
+   👉 [View Project](./03-digital-learning-access/README.md)
 
 ---
 
